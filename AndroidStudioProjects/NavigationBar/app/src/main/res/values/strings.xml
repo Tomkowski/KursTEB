@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationBar</string>
+    <string name="menu_text">This is where normally menu will show up</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log out</string>
+    <string name="menu_drawer_layout">Menu</string>
+    <string name="close_msg_drawer_layout">Default Layout</string>
+    <string name="sign_in">Sign in</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+   <item
+       android:icon="@drawable/sign_in_24dp"
+       android:id="@+id/sign_in"
+       android:title="@string/sign_in"
+       ></item>
+    <item
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:id="@+id/settings"
+        android:title="@string/settings"
+        ></item>
+    <item
+        android:icon="@drawable/ic_sentiment_dissatisfied_black_24dp"
+        android:id="@+id/log_out"
+        android:title="@string/log_out"
+        ></item>
+</menu>
